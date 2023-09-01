@@ -19,7 +19,7 @@ A FastAPI application
 - Use of environment variables
 - Hashed password
 
-**App was deployed publicly on https://alpha-api-social.herokuapp.com but since Heroku removed its free tier, the domain has been taken down.**
+***App was deployed publicly on https://alpha-api-social.herokuapp.com but since Heroku removed its free tier, the domain has been taken down.***
 
 Run the application locally by downloading the code.
 
